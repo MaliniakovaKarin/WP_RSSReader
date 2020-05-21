@@ -1,1 +1,1 @@
-# WP_RSSReader
+# WebPubProjekt
